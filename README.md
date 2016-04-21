@@ -11,20 +11,20 @@ Podcasts are great for several reasons. For one, they allow you to listen on the
 And because podcasts are usually interview-based, they allow you to take a peek into people’s lives. Learn about their career trajectories, side projects, challenges they’ve overcome, and the stuff they’re interested in learning more about. As a new developer, you want to mirror these people and the way they talk. 
 
 Suggested podcasts to listen to: 
-* *JavaScript Jabber* - A podcast about JavaScript (Node.js + Front-End Technologies) developer careers, working on a team, and more.
-* *Ruby Rogues* - A weekly panel discussion on the Ruby ecosystem as well as programming best practices, tools, and even careers.
-* *NSScreencasts* - A video-based show with both free and paid episodes. Because it’s video screencasts, NSScreencasts is more tutorial-like. 
-* *CodeNewbie Podcast* - This weekly show features conversations with both newbie and seasoned developers. The show covers topics like security, hardware, mobile development, and more. 
-* *HanselMinutes* - Hosted by well-known developer Scott Hanselman, the show contains interviews technologists, developers, founders, and other tech industry thought-leaders. 
+* *[JavaScript Jabber](https://devchat.tv/js-jabber/)* - A podcast about JavaScript (Node.js + Front-End Technologies) developer careers, working on a team, and more.
+* *[Ruby Rogues](https://devchat.tv/ruby-rogues/)* - A weekly panel discussion on the Ruby ecosystem as well as programming best practices, tools, and even careers.
+* *[NSScreencasts](http://nsscreencast.com/episodes)* - A video-based show with both free and paid episodes. Because it’s video screencasts, NSScreencasts is more tutorial-like. 
+* *[CodeNewbie Podcast](http://www.codenewbie.org/podcast)* - This weekly show features conversations with both newbie and seasoned developers. The show covers topics like security, hardware, mobile development, and more. 
+* *[HanselMinutes](http://hanselminutes.com/)* - Hosted by well-known developer Scott Hanselman, the show contains interviews technologists, developers, founders, and other tech industry thought-leaders. 
 
 ##Blogs
 Unlike podcasts where you can listen on the go, reading articles requires your full attention. Blogs, however, are great because they can be more technical by showing things like code samples. (Unlike audio-based podcasts, where you can only get so detailed.) 
 
 Suggested blogs to read: 
-* *Mislav’s Blog* - This is software developer Mislav Marohnić’s blog where he talks about the terminal, git, software best practices, and then some. 
-* *Tender Lovemaking* - A blog that’s been in publication since 2006, Tender Lovemaking covers Ruby, software testing, debugging, and more. 
-* *A List Apart* - A List Apart has been online since 1998. Now, they’re much more than a blog (they have books, events, and more). Nonetheless, they feature some of the best material on web standards and best practices.
-* *Joel on Software* - Joel has been blogging for 15 years (!!). He shares insights on software, business, the internet, and more.  
+* *[Mislav’s Blog](http://mislav.net/blog/)* - This is software developer Mislav Marohnić’s blog where he talks about the terminal, git, software best practices, and then some. 
+* *[Tender Lovemaking](http://tenderlovemaking.com/)* - A blog that’s been in publication since 2006, Tender Lovemaking covers Ruby, software testing, debugging, and more. 
+* *[A List Apart](http://alistapart.com/)* - A List Apart has been online since 1998. Now, they’re much more than a blog (they have books, events, and more). Nonetheless, they feature some of the best material on web standards and best practices.
+* *[Joel on Software](http://www.joelonsoftware.com/)* - Joel has been blogging for 15 years (!!). He shares insights on software, business, the internet, and more.  
 
 Aside from personal blogs, many developers also publish on Medium. On Medium, you can follow different topic-based publications, like Ruby on Rails or JavaScript Scene. 
 
@@ -38,13 +38,13 @@ Another benefit to newsletters is that they’re typically quick to digest. News
 
 Suggested newsletters to subscribe to: 
 
-* *Ruby Weekly* - Curated Ruby news, also includes job postings. 
-* *TechCrunch* - Get startup and tech news from popular news site TechCrunch delivered right to inbox 
-* *AlleyWatch* - Tech, business, and startup news from Silicon Alley (NYC). 
-* *VentureBeat* - Another tech news site that will send you updates. Here you can choose what you get updates on -  e.g. “Daily Dev”. 
-* *Startup Digest* - Tailor reading lists that are relevant to the area where you reside. 
-alleyNYC - Startup and tech happenings in the NYC area. 
-* *Hacker Newsletter* - Weekly newsletter of top articles from Hacker News site. Includes code, design, career, and more.
+* *[Ruby Weekly](http://rubyweekly.com/)* - Curated Ruby news, also includes job postings. 
+* *[TechCrunch](http://techcrunch.com/crunch-daily/)* - Get startup and tech news from popular news site TechCrunch delivered right to inbox 
+* *[AlleyWatch](http://www.alleywatch.com/email/)* - Tech, business, and startup news from Silicon Alley (NYC). 
+* *[VentureBeat](http://venturebeat.com/newsletters/)* - Another tech news site that will send you updates. Here you can choose what you get updates on -  e.g. “Daily Dev”. 
+* *[Startup Digest](https://www.startupdigest.com/)* - Tailor reading lists that are relevant to the area where you reside. 
+* *[alleyNYC](http://youralley.com/)* - Startup and tech happenings in the NYC area. 
+* *[Hacker Newsletter](http://www.hackernewsletter.com/)* - Weekly newsletter of top articles from Hacker News site. Includes code, design, career, and more.
 
 ## Stay on top of news by setting up alerts
 If there is a certain topic, person, or company, that you’d like to keep your eye on, set up a Google Alert. Google Alerts help you monitor the web for new content by sending an email notification every time a certain word or phrase is indexed in the Google search engine. 
