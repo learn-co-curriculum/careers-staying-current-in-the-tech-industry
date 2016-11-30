@@ -5,7 +5,7 @@ When you’re current on events and news, you become familiar with more aspects 
 When you’re in between prepping for interviews and doing code challenges, consuming content made by people in the tech community is a very productive way to spend your time while also taking a “break” from job search-related work. 
 Below are three ways you can stay current: listening to podcasts, reading blogs, and subscribing to newsletters.
 
-##Podcasts
+## Podcasts
 Podcasts are great for several reasons. For one, they allow you to listen on the go. So while you’re exercising, folding laundry, or commuting to work you can learn something new. They also give you the chance to listen to experienced techies talk about code. (Which is a lot different from reading about code.) When you listen to conversations about technology, you’ll pick up on new terms but also gain a better understanding of words you’re already familiar with. Hearing these conversations will provide more context. 
 
 And because podcasts are usually interview-based, they allow you to take a peek into people’s lives. Learn about their career trajectories, side projects, challenges they’ve overcome, and the stuff they’re interested in learning more about. As a new developer, you want to mirror these people and the way they talk. 
@@ -15,9 +15,9 @@ Suggested podcasts to listen to:
 * *[Ruby Rogues](https://devchat.tv/ruby-rogues/)* - A weekly panel discussion on the Ruby ecosystem as well as programming best practices, tools, and even careers.
 * *[NSScreencasts](http://nsscreencast.com/episodes)* - A video-based show with both free and paid episodes. Because it’s video screencasts, NSScreencasts is more tutorial-like. 
 * *[CodeNewbie Podcast](http://www.codenewbie.org/podcast)* - This weekly show features conversations with both newbie and seasoned developers. The show covers topics like security, hardware, mobile development, and more. 
-* *[HanselMinutes](http://hanselminutes.com/)* - Hosted by well-known developer Scott Hanselman, the show contains interviews technologists, developers, founders, and other tech industry thought-leaders. 
+* *[HanselMinutes](http://hanselminutes.com/)* - Hosted by well-known developer Scott Hanselman, the show contains interviews of technologists, developers, founders, and other tech industry thought-leaders. 
 
-##Blogs
+## Blogs
 Unlike podcasts where you can listen on the go, reading articles requires your full attention. Blogs, however, are great because they can be more technical by showing things like code samples. (Unlike audio-based podcasts, where you can only get so detailed.) 
 
 Suggested blogs to read: 
@@ -28,7 +28,7 @@ Suggested blogs to read:
 
 Aside from personal blogs, many developers also publish on Medium. On Medium, you can follow different topic-based publications, like Ruby on Rails or JavaScript Scene. 
 
-##Email newsletters
+## Email newsletters
 
 When you subscribe to tech newsletters, the news shows up right in your inbox. There are different newsletters in the tech space. Some curate top news stories, others share events going on in your area. 
 
@@ -61,7 +61,7 @@ More than just telling the person you enjoyed their podcast/article, you can cre
 
 Ultimately, your goal should be to get interviewed on a podcast, or guest write for a blog. Putting yourself out there in such a way will give yourself more exposure. It can also lead to more connections with like-minded people. And it positions you as an expert on the topic at hand. 
 
-##Conclusion
+## Conclusion
 When you’re working in tech, you need to stay relevant. Your career depends on it. Beyond listening to podcasts, reading blogs, and subscribing to newsletters, your goal is to contribute to the conversation. To do this, you must put yourself out there by reaching out to others and contributing to the dialogue.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-staying-current-in-the-tech-industry'>Careers Staying Current in the Tech Industry </a> on Learn.co and start learning to code for free.</p>
