@@ -1,6 +1,6 @@
 The technology industry is always changing. When you remain up-to-date, you stay competitive as a jobseeker and ultimately as an employee. Beyond that, when you’re aware of what’s happening in the industry, you establish yourself as a passionate developer and have even more content to reference in interviews and when you meet people in the community (at events, meetups etc.).
 
-When you’re current on events and news, you become familiar with more aspects of the tech industry—not just software development. When you have a fuller understanding of all the components, you can connect and relate to a variety of people—like designers, product managers, founders, and more. This further supports the notion that you’re a passionate developer.
+When you’re current on events and news, you become familiar with more aspects of the tech industry—not just software development. When you have a fuller understanding of all the components, you can connect and relate to a variety of people, like designers, product managers, founders, and more. This further supports the notion that you’re a passionate developer.
 
 When you’re in between prepping for interviews and doing code challenges, consuming content made by people in the tech community is a very productive way to spend your time while also taking a “break” from job search-related work. 
 Below are three ways you can stay current: listening to podcasts, reading blogs, and subscribing to newsletters.
@@ -63,5 +63,3 @@ Ultimately, your goal should be to get interviewed on a podcast, or guest write 
 
 ## Conclusion
 When you’re working in tech, you need to stay relevant. Your career depends on it. Beyond listening to podcasts, reading blogs, and subscribing to newsletters, your goal is to contribute to the conversation. To do this, you must put yourself out there by reaching out to others and contributing to the dialogue.
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-staying-current-in-the-tech-industry'>Careers Staying Current in the Tech Industry </a> on Learn.co and start learning to code for free.</p>
