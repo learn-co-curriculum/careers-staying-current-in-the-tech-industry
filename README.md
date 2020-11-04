@@ -19,7 +19,7 @@ Suggested podcasts to listen to:
 * *[CodeNewbie Podcast](http://www.codenewbie.org/podcast)* - This weekly show features conversations with both newbie and seasoned developers. The show covers topics like security, hardware, mobile development, and more. 
 * *[HanselMinutes](http://hanselminutes.com/)* - Hosted by well-known developer Scott Hanselman, the show contains interviews of technologists, developers, founders, and other tech industry thought-leaders. 
 * *[O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)* - Ben Lorica is the Chief Data Scientist at O’Reilly Media. In each episode, he is joined by an industry professional to discuss topics in big data and data science. 
-* *[Data Skeptic](http://dataskeptic.com/podcast?limit=10&offset=0)* - One of the longest-running data science shows, this podcast has a little bit of everything, and it has wide appeal, whether you’re a complete beginner or already technically skilled. 
+* *[Data Skeptic](http://dataskeptic.com/podcasts/dataskeptic)* - One of the longest-running data science shows, this podcast has a little bit of everything, and it has wide appeal, whether you’re a complete beginner or already technically skilled. 
 
 ## Blogs
 Unlike podcasts where you can listen on the go, reading articles requires your full attention. Blogs, however, are great because they can be more technical by showing things like code samples. (Unlike audio-based podcasts, where you can only get so detailed.) 
@@ -47,7 +47,7 @@ Another benefit to newsletters is that they’re typically quick to digest. News
 Suggested newsletters to subscribe to: 
 
 * *[Ruby Weekly](http://rubyweekly.com/)* - Curated Ruby news, also includes job postings. 
-* *[TechCrunch](http://techcrunch.com/crunch-daily/)* - Get startup and tech news from popular news site TechCrunch delivered right to inbox 
+* *[TechCrunch](https://techcrunch.com/newsletters)* - Get startup and tech news from popular news site TechCrunch delivered right to inbox 
 * *[AlleyWatch](http://www.alleywatch.com/email/)* - Tech, business, and startup news from Silicon Alley (NYC). 
 * *[VentureBeat](http://venturebeat.com/newsletters/)* - Another tech news site that will send you updates. Here you can choose what you get updates on -  e.g. “Daily Dev”.  
 * *[Hacker Newsletter](http://www.hackernewsletter.com/)* - Weekly newsletter of top articles from Hacker News site. Includes code, design, career, and more.
